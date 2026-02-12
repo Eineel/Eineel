@@ -15,7 +15,5 @@ Hey there!<br><br> My name is Cintia, I'm a 32-year-old Junior Software Develope
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Cintia&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Cintia&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
